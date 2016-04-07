@@ -12,11 +12,11 @@ Steps to Execute
 
 	1) The project contains source code, README.txt, sample connectivity text files.
 	2) While executing the program the connectivity text file should be in the same folder as the java files.
-		Run the commands in the following order.
-		3) javac Master.java
-		4) java Master conn9.txt
-		5) Output should be visible on the console. The leader will announce that he is the leader and each process will display that it has found the leader.
-		6) All threads will terminate.
+	3) Run the commands in the following order.
+		a) javac Master.java
+		b) java Master conn9.txt
+	4) Output should be visible on the console. The leader will announce that he is the leader and each process will display that it has found the leader.
+	5) All threads will terminate.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
